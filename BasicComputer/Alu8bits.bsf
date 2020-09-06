@@ -1,0 +1,106 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2016 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus Prime License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+*/
+(header "symbol" (version "1.2"))
+(symbol
+	(rect 64 64 376 296)
+	(text "Alu8bits" (rect 8 216 83 232)(font "Arial" (font_size 8)))
+	(text "inst" (rect 280 208 313 222)(font "Arial" ))
+	(port
+		(pt 112 0)
+		(input)
+		(text "A[7..0]" (rect 0 0 66 16)(font "Arial" (font_size 8)))
+		(text "A[7..0]" (rect 96 1 112 67)(font "Arial" (font_size 8))(vertical))
+		(line (pt 112 0)(pt 112 16)(line_width 3))
+	)
+	(port
+		(pt 192 0)
+		(input)
+		(text "B[7..0]" (rect 0 0 66 16)(font "Arial" (font_size 8)))
+		(text "B[7..0]" (rect 176 1 192 67)(font "Arial" (font_size 8))(vertical))
+		(line (pt 192 0)(pt 192 17)(line_width 3))
+	)
+	(port
+		(pt 0 80)
+		(input)
+		(text "S[3..0]" (rect 0 0 66 16)(font "Arial" (font_size 8)))
+		(text "S[3..0]" (rect 56 88 122 104)(font "Arial" (font_size 8)))
+		(line (pt 0 80)(pt 16 80)(line_width 3))
+	)
+	(port
+		(pt 0 120)
+		(input)
+		(text "M" (rect 0 0 9 16)(font "Arial" (font_size 8)))
+		(text "M" (rect 72 120 81 136)(font "Arial" (font_size 8)))
+		(line (pt 0 120)(pt 16 120))
+	)
+	(port
+		(pt 0 152)
+		(input)
+		(text "Cin" (rect 0 0 28 16)(font "Arial" (font_size 8)))
+		(text "Cin" (rect 72 144 100 160)(font "Arial" (font_size 8)))
+		(line (pt 0 152)(pt 16 152))
+	)
+	(port
+		(pt 136 232)
+		(output)
+		(text "F[7..0]" (rect 128 0 194 16)(font "Arial" (font_size 8)))
+		(text "F[7..0]" (rect 136 96 152 162)(font "Arial" (font_size 8))(vertical))
+		(line (pt 136 232)(pt 136 217)(line_width 3))
+	)
+	(port
+		(pt 312 72)
+		(output)
+		(text "Cout" (rect 128 0 165 16)(font "Arial" (font_size 8)))
+		(text "Cout" (rect 240 64 277 80)(font "Arial" (font_size 8)))
+		(line (pt 312 72)(pt 296 72))
+	)
+	(port
+		(pt 312 96)
+		(output)
+		(text "ZF" (rect 128 0 146 16)(font "Arial" (font_size 8)))
+		(text "ZF" (rect 240 88 258 104)(font "Arial" (font_size 8)))
+		(line (pt 312 96)(pt 296 96))
+	)
+	(port
+		(pt 312 128)
+		(output)
+		(text "Ov" (rect 128 0 146 16)(font "Arial" (font_size 8)))
+		(text "Ov" (rect 224 120 242 136)(font "Arial" (font_size 8)))
+		(line (pt 312 128)(pt 296 128))
+	)
+	(port
+		(pt 312 160)
+		(output)
+		(text "NF" (rect 128 0 146 16)(font "Arial" (font_size 8)))
+		(text "NF" (rect 208 144 226 160)(font "Arial" (font_size 8)))
+		(line (pt 312 160)(pt 296 160))
+	)
+	(drawing
+		(line (pt 0 0)(pt 104 0))
+		(line (pt 104 0)(pt 144 88))
+		(line (pt 144 88)(pt 200 0))
+		(line (pt 200 0)(pt 312 0))
+		(line (pt 312 0)(pt 232 168))
+		(line (pt 232 168)(pt 80 168))
+		(line (pt 80 168)(pt 0 0))
+	)
+)

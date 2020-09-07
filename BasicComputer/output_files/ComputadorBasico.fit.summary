@@ -1,16 +1,16 @@
-Fitter Status : Successful - Mon Aug 31 19:50:05 2020
+Fitter Status : Successful - Mon Sep 07 15:54:19 2020
 Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
 Revision Name : ComputadorBasico
-Top-level Entity Name : CPU8bits
+Top-level Entity Name : TestMemoriaROM
 Family : Cyclone V
 Device : 5CGXFC7C7F23C8
 Timing Models : Final
-Logic utilization (in ALMs) : 86 / 56,480 ( < 1 % )
-Total registers : 48
-Total pins : 109 / 268 ( 41 % )
+Logic utilization (in ALMs) : 1 / 56,480 ( < 1 % )
+Total registers : 0
+Total pins : 22 / 268 ( 8 % )
 Total virtual pins : 0
-Total block memory bits : 0 / 7,024,640 ( 0 % )
-Total RAM Blocks : 0 / 686 ( 0 % )
+Total block memory bits : 512 / 7,024,640 ( < 1 % )
+Total RAM Blocks : 1 / 686 ( < 1 % )
 Total DSP Blocks : 0 / 156 ( 0 % )
 Total HSSI RX PCSs : 0 / 6 ( 0 % )
 Total HSSI PMA RX Deserializers : 0 / 6 ( 0 % )

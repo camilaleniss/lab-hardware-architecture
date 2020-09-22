@@ -1,13 +1,13 @@
-Fitter Status : Successful - Mon Sep 07 15:54:19 2020
+Fitter Status : Successful - Mon Sep 14 16:10:09 2020
 Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
 Revision Name : ComputadorBasico
-Top-level Entity Name : TestMemoriaROM
+Top-level Entity Name : ComputadorBasicoFinal
 Family : Cyclone V
 Device : 5CGXFC7C7F23C8
 Timing Models : Final
-Logic utilization (in ALMs) : 1 / 56,480 ( < 1 % )
-Total registers : 0
-Total pins : 22 / 268 ( 8 % )
+Logic utilization (in ALMs) : 97 / 56,480 ( < 1 % )
+Total registers : 89
+Total pins : 108 / 268 ( 40 % )
 Total virtual pins : 0
 Total block memory bits : 512 / 7,024,640 ( < 1 % )
 Total RAM Blocks : 1 / 686 ( < 1 % )

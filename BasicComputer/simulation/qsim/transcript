@@ -2,34 +2,36 @@
 # ** Warning: (vlib-34) Library already exists at "work".
 # 
 # Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
-# Start time: 16:02:03 on Sep 07,2020
+# Start time: 16:21:56 on Sep 14,2020
 # vlog -work work ComputadorBasico.vo 
-# -- Compiling module TestMemoriaROM
+# -- Compiling module ComputadorBasicoFinal
 # 
 # Top level modules:
-# 	TestMemoriaROM
-# End time: 16:02:03 on Sep 07,2020, Elapsed time: 0:00:00
+# 	ComputadorBasicoFinal
+# End time: 16:21:56 on Sep 14,2020, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
-# Start time: 16:02:03 on Sep 07,2020
-# vlog -work work WaveformTestMemoryROM.vwf.vt 
-# -- Compiling module TestMemoriaROM_vlg_vec_tst
+# Start time: 16:21:56 on Sep 14,2020
+# vlog -work work WaveformProgramS6.vwf.vt 
+# -- Compiling module ComputadorBasicoFinal_vlg_vec_tst
 # 
 # Top level modules:
-# 	TestMemoriaROM_vlg_vec_tst
-# End time: 16:02:04 on Sep 07,2020, Elapsed time: 0:00:01
+# 	ComputadorBasicoFinal_vlg_vec_tst
+# End time: 16:21:57 on Sep 14,2020, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0
-# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.TestMemoriaROM_vlg_vec_tst -voptargs=""+acc"" 
-# Start time: 16:02:04 on Sep 07,2020
-# Loading work.TestMemoriaROM_vlg_vec_tst
-# Loading work.TestMemoriaROM
+# vsim -novopt -c -t 1ps -L cyclonev_ver -L altera_ver -L altera_mf_ver -L 220model_ver -L sgate_ver -L altera_lnsim_ver work.ComputadorBasicoFinal_vlg_vec_tst -voptargs=""+acc"" 
+# Start time: 16:21:57 on Sep 14,2020
+# Loading work.ComputadorBasicoFinal_vlg_vec_tst
+# Loading work.ComputadorBasicoFinal
+# Loading altera_ver.dffeas
 # Loading sv_std.std
 # Loading altera_lnsim_ver.generic_m10k
 # Loading altera_lnsim_ver.altera_lnsim_functions
 # Loading altera_lnsim_ver.common_28nm_ram_block
 # Loading altera_lnsim_ver.common_28nm_ram_register
 # Loading altera_lnsim_ver.common_28nm_ram_pulse_generator
-# ** Note: $finish    : WaveformTestMemoryROM.vwf.vt(47)
-#    Time: 1 us  Iteration: 0  Instance: /TestMemoriaROM_vlg_vec_tst
-# End time: 16:02:06 on Sep 07,2020, Elapsed time: 0:00:02
+# Loading altera_ver.PRIM_GDFF_LOW
+# ** Note: $finish    : WaveformProgramS6.vwf.vt(79)
+#    Time: 1 us  Iteration: 0  Instance: /ComputadorBasicoFinal_vlg_vec_tst
+# End time: 16:21:58 on Sep 14,2020, Elapsed time: 0:00:01
 # Errors: 0, Warnings: 0

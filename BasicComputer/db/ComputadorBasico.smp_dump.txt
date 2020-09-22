@@ -1,0 +1,6 @@
+
+State Machine - |ComputadorBasicoFinal|CPU8bits_v2:inst|ControlUnit_SM:inst8|state
+Name state.Execute state.Decode state.Fetch 
+state.Fetch 0 0 0 
+state.Decode 0 1 1 
+state.Execute 1 0 1 

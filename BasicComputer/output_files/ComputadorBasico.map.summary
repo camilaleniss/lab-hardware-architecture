@@ -1,11 +1,11 @@
-Analysis & Synthesis Status : Successful - Mon Sep 07 15:52:26 2020
+Analysis & Synthesis Status : Successful - Mon Sep 14 16:06:31 2020
 Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
 Revision Name : ComputadorBasico
-Top-level Entity Name : TestMemoriaROM
+Top-level Entity Name : ComputadorBasicoFinal
 Family : Cyclone V
 Logic utilization (in ALMs) : N/A
-Total registers : 0
-Total pins : 22
+Total registers : 82
+Total pins : 108
 Total virtual pins : 0
 Total block memory bits : 512
 Total DSP Blocks : 0

@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\bin\x64\Debug\netcoreapp3.1\AssemblerDemo.exe
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\bin\x64\Debug\netcoreapp3.1\AssemblerDemo.deps.json
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\bin\x64\Debug\netcoreapp3.1\AssemblerDemo.runtimeconfig.json
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\bin\x64\Debug\netcoreapp3.1\AssemblerDemo.runtimeconfig.dev.json
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\bin\x64\Debug\netcoreapp3.1\AssemblerDemo.dll
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\bin\x64\Debug\netcoreapp3.1\AssemblerDemo.pdb
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\obj\x64\Debug\netcoreapp3.1\AssemblerDemo.csprojAssemblyReference.cache
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\obj\x64\Debug\netcoreapp3.1\AssemblerDemo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\obj\x64\Debug\netcoreapp3.1\AssemblerDemo.AssemblyInfo.cs
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\obj\x64\Debug\netcoreapp3.1\AssemblerDemo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\obj\x64\Debug\netcoreapp3.1\AssemblerDemo.dll
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\obj\x64\Debug\netcoreapp3.1\AssemblerDemo.pdb
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\AssemblerDemo\AssemblerDemo\obj\x64\Debug\netcoreapp3.1\AssemblerDemo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\bin\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.exe
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\bin\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.deps.json
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\bin\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.runtimeconfig.json
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\bin\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.runtimeconfig.dev.json
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\bin\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.dll
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\bin\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.pdb
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\obj\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.csprojAssemblyReference.cache
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\obj\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\obj\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.AssemblyInfo.cs
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\obj\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\obj\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.dll
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\obj\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.pdb
+C:\Users\PC\Documents\MEGAsync\ICESI\Arquitectura de Hardware\lab-hardware-architecture\ConsoleAppTimeElapsed\ConsoleAppTimeElapsed\obj\Debug\netcoreapp3.1\ConsoleAppTimeElapsed.genruntimeconfig.cache

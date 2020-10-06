@@ -1,0 +1,82 @@
+Microsoft (R) Macro Assembler Version 14.27.29111.0	    10/05/20 16:07:49
+LabSemana9.asm						     Page 1 - 1
+
+
+				.386
+				.model flat, stdcall
+				.stack 4096
+				ExitProcess proto, dwExitCode : dword
+ 00000000			.data
+ 00000000 32 38 31 37 2E	BigDec1 Byte "2817.32", 0
+	   33 32 00
+ 00000008 31 38 39 33 2E	BigDec2 Byte "1893.96", 0
+	   39 36 00
+ 00000010 30 30 32 30 5F	BigDec3 Byte "0020_80", 0
+	   38 30 00
+ 00000000			.code
+ 00000000			main proc
+ 00000000  33 C0		Xor eax, eax ; eax = 0
+ 00000002  33 DB		XOR ebx, ebx
+ 00000004  8D 35 00000000 R	lea esi, BigDec1
+ 0000000A  B9 00000006		mov ecx , 6
+ 0000000F  8A 81 00000000 R	Lini:  mov al, byte ptr[BigDec1+ecx];
+ 00000015  3C 2E		    cmp al, '.'
+ 00000017  74 0B		    je LStore
+ 00000019  8A 99 00000008 R	    mov bl, byte ptr[BigDec2+ecx];
+ 0000001F  02 C3		    add al, bl
+ 00000021  37			AAA    ;6FH --> 15 --> 6F --> inc ah 01 al = 05
+ 00000022  04 30		    add al, 30h;05--> 35 --> '5'
+
+ 00000024  88 81 00000010 R	LStore: mov Byte ptr[BigDec3+ecx], al;
+ 0000002A  49			    dec ecx
+ 0000002B  83 F9 FF		    cmp ecx, -1
+ 0000002E  75 DF		LLoop:  jnz Lini
+
+ 00000030			main endp
+				End main
+Microsoft (R) Macro Assembler Version 14.27.29111.0	    10/05/20 16:07:49
+LabSemana9.asm						     Symbols 2 - 1
+
+
+
+
+Segments and Groups:
+
+                N a m e                 Size     Length   Align   Combine Class
+
+FLAT . . . . . . . . . . . . . .	GROUP
+STACK  . . . . . . . . . . . . .	32 Bit	 00001000 DWord	  Stack	  'STACK'	 
+_DATA  . . . . . . . . . . . . .	32 Bit	 00000018 DWord	  Public  'DATA'	
+_TEXT  . . . . . . . . . . . . .	32 Bit	 00000030 DWord	  Public  'CODE'	
+
+
+Procedures, parameters, and locals:
+
+                N a m e                 Type     Value    Attr
+
+ExitProcess  . . . . . . . . . .	P Near	 00000000 FLAT	Length= 00000000 External STDCALL
+main . . . . . . . . . . . . . .	P Near	 00000000 _TEXT	Length= 00000030 Public STDCALL
+  Lini . . . . . . . . . . . . .	L Near	 0000000F _TEXT	
+  LStore . . . . . . . . . . . .	L Near	 00000024 _TEXT	
+  LLoop  . . . . . . . . . . . .	L Near	 0000002E _TEXT	
+
+
+Symbols:
+
+                N a m e                 Type     Value    Attr
+
+@CodeSize  . . . . . . . . . . .	Number	 00000000h   
+@DataSize  . . . . . . . . . . .	Number	 00000000h   
+@Interface . . . . . . . . . . .	Number	 00000003h   
+@Model . . . . . . . . . . . . .	Number	 00000007h   
+@code  . . . . . . . . . . . . .	Text   	 _TEXT
+@data  . . . . . . . . . . . . .	Text   	 FLAT
+@fardata?  . . . . . . . . . . .	Text   	 FLAT
+@fardata . . . . . . . . . . . .	Text   	 FLAT
+@stack . . . . . . . . . . . . .	Text   	 FLAT
+BigDec1  . . . . . . . . . . . .	Byte	 00000000 _DATA	
+BigDec2  . . . . . . . . . . . .	Byte	 00000008 _DATA	
+BigDec3  . . . . . . . . . . . .	Byte	 00000010 _DATA	
+
+	   0 Warnings
+	   0 Errors
